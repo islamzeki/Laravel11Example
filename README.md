@@ -5,4 +5,4 @@
 
 
 Anasayfa ziyaret edildiğinde sonuçlar üretilir.
-[![Test Görseli](https://hubfile.tk/test.png "Test Görseli")](https://hubfile.tk/test.png "Test Görseli")
+[![Test Görseli](test.png")](test.png)
