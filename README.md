@@ -5,4 +5,4 @@
 
 
 Anasayfa ziyaret edildiğinde sonuçlar üretilir.
-[![Test Görseli](test.png")](test.png)
+![](https://github.com/islamzeki/Laravel11Example/blob/48c59a113d3a82b555e5d7653f6abf192af5ae28/test.png)
