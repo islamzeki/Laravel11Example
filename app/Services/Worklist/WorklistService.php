@@ -56,5 +56,7 @@ class WorklistService
             }
             echo "Toplam Çalışma Saati: <b>$developer->workHour h</b><br>";
         }
+
+        echo "<hr>Tüm işlerin minimum bitiş süresi(Saat):" .$developers->max('workHour');
     }
 }
